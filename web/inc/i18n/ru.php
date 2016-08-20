@@ -441,7 +441,7 @@ $LANG['ru'] = array(
     'MAIL_ACCOUNT_CREATED_OK' => 'Аккаунт <a href="/edit/mail/?account=%s&domain=%s"><b>%s@%s</b></a> успешно создан',
     'DATABASE_CREATED_OK' => 'База данных <a href="/edit/db/?database=%s"><b>%s</b></a> успешно создана',
     'CRON_CREATED_OK' => 'Задание успешно создано',
-    'IP_CREATED_OK' => '"IP адрес <a href="/edit/ip/?ip=%s"><b>%s</b></a> успешно создан.',
+    'IP_CREATED_OK' => 'IP адрес <a href="/edit/ip/?ip=%s"><b>%s</b></a> успешно создан.',
     'PACKAGE_CREATED_OK' => 'Пакет <a href="/edit/package/?package=%s"><b>%s</b></a> успешно создан.',
     'SSL_GENERATED_OK' => 'SSL cертификат был успешно сгенерирован.',
     'RULE_CREATED_OK' => 'Правило было успешно добавлено',
